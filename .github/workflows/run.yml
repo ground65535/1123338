@@ -2,7 +2,7 @@ name: Run API Script
 
 on:
   schedule:
-    - cron: '59 14 * * *'
+    - cron: '10 15 * * *'
   workflow_dispatch:
 
 jobs:
